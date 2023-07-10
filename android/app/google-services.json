@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "757164037149",
+    "project_id": "apple-store-sem-3",
+    "storage_bucket": "apple-store-sem-3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757164037149:android:506ae8b8a12d5e784122f4",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757164037149-neeepgbfe34se1omo2le8qflgglij627.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPb5D_WdlUXcDyS6eWxsIS90Boh60qV2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757164037149-neeepgbfe34se1omo2le8qflgglij627.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
