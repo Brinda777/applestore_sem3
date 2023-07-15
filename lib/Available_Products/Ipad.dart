@@ -1,6 +1,6 @@
-import 'package:flutter/material.dart';
-import 'package:online_mobile/pages/home.dart';
-import 'package:online_mobile/services/notification_service.dart';
+ import 'package:flutter/material.dart';
+ import 'package:online_mobile/pages/home.dart';
+ import 'package:online_mobile/services/notification_service.dart';
 
 class Iphone_12 extends StatelessWidget {
   const Iphone_12({super.key});
